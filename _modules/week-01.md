@@ -1,9 +1,18 @@
 ---
-title: Introduction to Java
+title: Data
 ---
 
-Sep 28
-: [Java & Git](#)
+| Day | Lecture | Due | Reading |
+| M | Intro | Nothing | Nothing |
+
+
+Day
+: Lecture
+  : Due
+  : Reading
+
+April 3
+: [Introduction](#)
   : [1.1](#)
 
 Sep 29

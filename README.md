@@ -8,7 +8,35 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# Instructions for building and serving website 
+
+## install website on OSX
+
+[say, using instructions here](https://jekyllrb.com/docs/installation/macos/)
+
+- Install ruby with homebrew and chruby
+    ```
+    brew install chruby ruby-install xz
+    ruby-install ruby 3.2.1
+    echo "source $(brew --prefix)/opt/chruby/share/chruby/chruby.sh" >> ~/.zshrc
+    echo "source $(brew --prefix)/opt/chruby/share/chruby/auto.sh" >> ~/.zshrc
+    echo "chruby ruby-3.2.1" >> ~/.zshrc # run 'chruby' to see actual version
+    source ~/.zshrc
+    ruby -v
+    ```
+    check that you have the right version, 3.2.1
+- Install jekyll: `gem install jekyll`
+- Install Bundler: `gem install bundler`
+- Install gems: `bundle install`
+- Add webrick, since it's not inclueded by default for versions of ruby higher than 3.0: `bundle add webrick`
+
+## build and serve the website
+
+```
+bundle exec jekyll serve
+```
+
+# Website template
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
