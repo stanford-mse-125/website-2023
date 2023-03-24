@@ -41,9 +41,11 @@ results.
 
 All zoom links require SUID login for security.
 
-Office hours are a great opportunity to discuss not only topics directly related to the course, 
-but also anything else that's on your mind beyond the class, including, for example, 
-questions about career trajectories, and [research opportunities](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research) in MS&E and beyond.
+Use office hours to discuss topics directly related to the course
+and also anything else that's on your mind beyond the class: for example, 
+questions about career trajectories, 
+[research opportunities](https://sites.google.com/stanford.edu/msande-inclusion/diversity-in-research) in MS&E,
+and more.
 
 ## Acknowledgements
 {: .no_toc }

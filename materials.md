@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Calendar
-description: Listing of course modules and topics.
+title: Materials
+description: Course modules and dates
 ---
 
 | **Day** | **Lecture** | **Demo** | **Due** | **Reading** |
