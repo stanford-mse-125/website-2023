@@ -106,12 +106,20 @@ We suggest you save your slip days to insure against catastrophe.
 ## Attendance
 
 Class participation is important for staying engaged and in-sync with the course material. 
-Although lectures will be recorded, attending in person is encouraged through our participation policy:
+Attending in person is encouraged through our participation policy:
 
 * In-class participation will be recorded using in-class polls on the Poll Everywhere website. 
 You must log in using your SUNet credentials. Go to Pollev.stanford.edu and log in with your SUNet credentials to access your free account. Or enter your SUNet email address at Polleverywhere.com and click Log in with Stanford to enter through the SUNet portal.
-* If you are not able to make it to class, you can instead watch the lecture recording, which will be posted after the lecture on Canvas, and [submit the makeup participation form](https://forms.gle/Pv4o5jNs8aqsARkt7) before the start of the next class.
+* If you are not able to make it to class (e.g., if you are sick), 
+you can instead watch the lecture recording, which will be posted after the lecture on Canvas, 
+and [submit the makeup participation form](https://forms.gle/Pv4o5jNs8aqsARkt7) before the start of the next class.
 * We drop your lower two participation scores; so, you can get a perfect participation score even if you miss class twice without submitting the makeup participation form.
+
+**DO NOT** register for this course if you have a recurring conflict with the lecture block.
+Lectures are recorded so that students who are sick or otherwise unable to come to class can receive full credit 
+without having to prove their disability. 
+However, we still believe that students learn best in class, and so if attendance is too low, 
+we may drop the remote participation option at any time.
 
 Office hours are not recorded. 
 

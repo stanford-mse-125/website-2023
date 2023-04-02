@@ -10,7 +10,9 @@ Staff information is stored in the `_staffers` directory and rendered according 
 
 ## Course communication 
 
-We use the [Ed platform](TK) to manage course questions and discussion.
+We use this website to disseminate course materials.
+We use the [Ed platform](https://edstem.org/us/courses/38225) to manage course questions and discussion and to make announcements.
+Assignments should be submitted on Gradescope. 
 Grades will be posted on Gradescope and should be discussed only real-time.
 
 Use our (anonymous) 
