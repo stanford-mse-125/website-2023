@@ -2,6 +2,7 @@
 layout: page
 title: Materials
 description: Course modules and dates
+nav_exclude: true
 ---
 
 | **Day** | **Lecture** | **Demo** | **Due** | **Reading** |
