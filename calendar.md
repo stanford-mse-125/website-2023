@@ -10,7 +10,7 @@ description: Course modules and dates
 | M April 3 | [Introduction](lectures/intro.pdf) |  | (Optional) [Discussion 0](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_0.ipynb) |  |  |
 | W April 5 | [Visualization](lectures/eda.pdf) | [sales](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/sales.ipynb) | [Discussion 1](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_1.ipynb) |  |  |
 | M April 10 | [Munging](lectures/munging.pdf) | [fires](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/fires.ipynb) |  |  |  |
-| W April 12 | [Models and inference](lectures/inference.pdf) | [inference](https://colab.research.com/github/stanford-mse-125/demos/blob/main/inference.ipynb) |  | hw1 |  |
+| W April 12 | [Models and inference](lectures/inference.pdf) | [inference](https://colab.research.com/github/stanford-mse-125/demos/blob/main/inference.ipynb) |  | hw1 <a href="https://raw.githubusercontent.com/stanford-mse-125/homework/main/data/census.csv" download> census data </a> |  |
 | F April 14 |  |  |  | project groups |  |
 | M April 17 | [CLT and confidence intervals](lectures/inference.pdf) | [inference](https://colab.research.com/github/stanford-mse-125/demos/blob/main/inference.ipynb) |  |  |  |
 | W April 19 | [Bootstrap](lectures/bootstrap.pdf) | [bootstrap](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/bootstrap.ipynb) |  | hw2 |  |
