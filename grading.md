@@ -76,18 +76,23 @@ or share or post solutions (yours or ours) to a public website.
 This class will have no exams. Instead, we will have about 5 quizzes (approximately biweekly),
 which will ask some simple questions on course material.
 Each quiz should take you about 20 minutes. Quizzes will be cumulative.
+We may have in-class or take-home quizzes.
 
-Quizzes will be posted on Gradescope. They will be open from Friday 10am to Saturday noon ET;
+Take-home quizzes will be posted on Gradescope. They will be open from Friday 10am to Saturday noon ET;
 you will have 40 minutes from the time you begin the quiz to complete it.
 (We suggest setting a reminder on your calendar or phone to remember to take the quiz!)
 Do not close your browser; you will not be able to reopen the quiz.
-
-Quizzes are closed-book. 
-Collaboration with other students is prohibited,
-as is the use of course notes, the internet, and AI tools.
+Take-home quizzes are open book, open note, open internet, and open AI tools.
+Collaboration with other students is prohibited.
 Do not communicate with other students during the quiz
 or about what questions were on the quiz,
 until after the deadline for quiz submissions.
+
+In-class quizzes will happen in class on Wednesdays.
+These quizzes will be closed book and internet.
+You may bring a single sheet of handwritten notes.
+(It's fine to write on both sides.)
+You will have half an hour to complete the quiz.
 
 *Regrades.* You can ask for your quiz to be regraded up until two days after grades have been assigned.
 Regrades may increase or decrease your grade.
