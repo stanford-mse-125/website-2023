@@ -15,19 +15,26 @@ description: Course modules and dates
 | M April 17 | [CLT and confidence intervals](lectures/inference.pdf) | [inference](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/inference.ipynb) |  |  |  |
 | W April 19 | [Bootstrap](lectures/bootstrap.pdf) | [bootstrap](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/bootstrap.ipynb) |  | hw2 |  |
 | M April 24 | Hypothesis tests |  |  |  |  |
-| W April 26 | [Correlation](lectures/correlation.pdf) | [correlation](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/correlation.ipynb) |  | hw3 | [Data8 ch 15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) |
+| T April 25 | |  |  | hw3 |  |
+| W April 26 | [Correlation](lectures/correlation.pdf) | [correlation](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/correlation.ipynb) |  |  | [Data8 ch 15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) |
 | F April 28 |  |  |  | project proposal |  |
 | M May 1 | [Linear regression](lectures/linear.pdf) | [regression](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression.ipynb) |  |  |  |
-| W May 3 | [CI for regression](lectures/linear.pdf) | [regression uncertainty](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression-uncertainty.ipynb), [electricity](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/electricity.ipynb) |  | hw4 |  |
+| T May 2 |  |  |  | hw4 |  |
+| W May 3 | [CI for regression](lectures/linear.pdf) | [regression uncertainty](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression-uncertainty.ipynb), [electricity](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/electricity.ipynb) |  |  |  |
 | M May 8 | [Feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |
-| W May 10 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  | hw5 |  |
+| T May 9 |  |  |  | hw5  |  |
+| W May 10 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  | |  |
 | F May 12 |  |  |  | project midterm report |  |
 | M May 15 | Logistic regression |  |  |  |  |
-| W May 17 | Error metrics |  |  | hw6 |  |
+| T May 16 |  |  |  | hw6 |  |
+| W May 17 | Error metrics |  |  |  |  |
 | M May 22 | [AutoML](lectures/automl.pdf) |  |  |  |  |
-| W May 24 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  | hw7 |  |
+| T May 23 | |  |  | hw7|  |
+| W May 24 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  |  |  |
 | M May 29 | Holiday |  |  |  |  |
-| W May 31 | Causal inference I |  |  | hw8 |  |
+| T May 30 |  |  |  | hw8 |  |
+| W May 31 | Causal inference I |  |  | |  |
 | M June 5 | Causal inference II |  |  |  |  |
-| W June 7 | Review |  |  | hw9 |  |
+| T June 6 | Error metrics |  |  | hw9 |  |
+| W June 7 | Review |  |  |  |  |
 | F June 9 |  |  |  | project final report |  |
