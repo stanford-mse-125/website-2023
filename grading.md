@@ -60,8 +60,8 @@ However, each student must submit their own homework. We ask that you
 - Give credit to the people who have helped you: please write on your homework the names of the people you worked with.
 - Give credit to the other resources that have helped you: please write on your homework 
 the textbooks, notes, web pages, or large language models you found useful.
-- Write up your homework by yourself. That is, all of the text that you submit should be typed or hand-written by you.
-No copy-pasting.
+- Write up your homework by yourself. ~That is, all of the text that you submit should be typed or hand-written by you.
+No copy-pasting.~ UPDATE: Tab-completing code via CodeSquire or equivalent is allowed. You do not need to re-type autocompleted CodeSquire output. 
 
 *Partial credit.* If you're not able to answer a homework question, but you show us
 the work that you performed to think about the question and to try to understand it,
