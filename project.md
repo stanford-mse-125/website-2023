@@ -2,7 +2,6 @@
 layout: page
 title: Project
 description: Project
-nav_exclude: true
 ---
 
 # Project
@@ -25,7 +24,7 @@ The MS&E 125 project provides hands-on experience with key steps of the data sci
 
 You are free to pursue any topic related to applied statistics. In previous years, teams have considered athletic performance, gender inequality, farming practices, restaurant quality, music success, gentrification, and standardized testing, just to name a few. Any data-driven investigation is fair game. 
 
-At the end of the quarter, each team of 2-4 students will prepare a 10-page written report. References and plots should be included in the 10 pages. 
+At the end of the quarter, each team of 2-4 students will prepare a 8-page written report. References and plots should be included in the 8 pages. 
 
 ## Timeline
 
@@ -35,9 +34,9 @@ Before April 28: Required [15-minute meeting](https://docs.google.com/spreadshee
 
 Friday, April 28: [Project proposal](https://docs.google.com/forms/d/e/1FAIpQLScSCaniJMistiDBKNoKSPa2cUFopmpAr7-YPqWqqcgsuZP0EQ/viewform?usp=sf_link) due
 
-Friday, May 12: Project midterm report
+Friday, May 12: Project midterm report (4 pages)
 
-Friday, June 9: Project final report and peer evaluations
+Friday, June 9: Project final report (8 pages) and peer evaluations
 
 
 ## Required TA meeting
@@ -55,7 +54,7 @@ After discussing your project idea with the course staff, you should prepare and
 
 The project is intentionally open-ended and is graded holistically. Given the unique challenges faced by each team, there isn't a one-size-fits-all rubric. Some teams will spend more time collecting complex data and have simpler analyses, while others will pursue more complex analyses of data that's already clean.
 
-As long as there's evidence that your team has spent time sufficiently collecting, cleaning, exploring, and analyzing your data, and has taken into consideration the comments on your proposal, you should receive high marks. 
+As long as there's evidence that your team has spent time sufficiently collecting, cleaning, exploring, and analyzing your data, and has taken into consideration the comments on your proposal and midterm report, you should receive high marks. 
 
 If you have concerns about the specific directions of your project, please see a member of the teaching staff during office hours. We're happy to lead you in the right direction! 
 
@@ -65,7 +64,7 @@ If you have concerns about the specific directions of your project, please see a
 
 Project teams must consist of two, three, or four students. 
 
-While it can be diffcult to precisely quantify project output, we expect a 4 person group to produce a project that requires twice the effort/hours of a 2 person project. This can take the form of increased depth and/or breadth.
+While it can be difficult to precisely quantify project output, we expect a 4 person group to produce a project that requires twice the effort/hours of a 2 person project. This can take the form of increased depth and/or breadth.
 
 Upon completing the project, we’ll also ask each student to evaluate the contributions of their team members, and we’ll consider these peer reviews when determining final grades.
 
@@ -77,9 +76,9 @@ If you plan to create a survey, be sure to share a copy of your survey with the 
 
 Effective survey design can take much longer than expected, so it's not a good option for a last-minute project!
 
-### Can project reports be longer than 10 pages? 
+### Can project reports be longer than 8 pages? 
 
-You're welcome to include an appendix of additional relevant results, but we can't guarantee that the teaching team will review your appendix. Please make sure not to just dump all of your extraneous findings and plots in an appendix unless there's a good reason to include them. While research papers often have just 3-5 main plots, researchers will often produce *hundreds* of plots over the course of a project that the public never sees. 
+You're welcome to include an appendix of additional relevant results, but we can't guarantee that the teaching team will review anything beyond 8 pages. Please make sure not to just dump all of your extraneous findings and plots in an appendix unless there's a good reason to include them. While research papers often have just 3-5 main plots, researchers will often produce *hundreds* of plots over the course of a project that the public never sees. 
 
 ### Can reports be double spaced? 
 
@@ -131,7 +130,7 @@ As mentioned above, the project is intentionally open-ended and doesn't have a f
 
 - This will probably be your longest section, so spend the most time here. 
 
-- You shouldn't have more than 10 total plots+figures in your results. 5-7 is a good target. Only include plots if they are relevant to your story. 
+- You shouldn't have more than 8 total plots+figures in your results. 4-6 is a good target. Only include plots if they are relevant to your story. 
 
 - Spend sufficient time making your plots pretty! With a tool like ChatGPT/CodeSquire, it's a lot easier to figure out how to clean up plots. Aim to make your plots as clean as a plot you might see in a professional news outlet. You're welcome to discuss potential improvements to your plots during office hours.  
 
