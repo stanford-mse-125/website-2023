@@ -15,7 +15,7 @@ description: Course modules and dates
 | M April 17 | [CLT and confidence intervals](lectures/inference.pdf) | [inference](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/inference.ipynb) |  |  |  |
 | W April 19 | [Bootstrap](lectures/bootstrap.pdf) | [bootstrap](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/bootstrap.ipynb) | [Discussion 3](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_3.ipynb) | [hw2](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW2.ipynb) |  |
 | M April 24 | [Hypothesis tests](lectures/hypothesis.pdf) | [testing](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/testing.ipynb) |  |  | [Data 8 ch11](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html) |
-| T April 25 | |  |  | hw3 |  |
+| T April 25 | |  |  | [hw3](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW3.ipynb) |  |
 | W April 26 | [Correlation](lectures/correlation.pdf) | [correlation](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/correlation.ipynb) |  |  | [Data8 ch 15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) |
 | F April 28 |  |  |  | project proposal |  |
 | M May 1 | [Linear regression](lectures/linear.pdf) | [regression](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression.ipynb) |  |  |  |
