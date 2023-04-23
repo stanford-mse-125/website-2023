@@ -35,11 +35,6 @@ description: Course modules and dates
 | T May 30 |  |  |  | hw8 |  |
 | W May 31 | Causal inference I |  |  | |  |
 | M June 5 | Causal inference II |  |  |  |  |
-<<<<<<< HEAD
 | T June 6 |  |  |  | hw9 |  |
-| W June 7 | Review |  |  |  |  |
-=======
-| T June 6 | Error metrics |  |  | hw9 |  |
 | W June 7 | Review |  |  |  | Quiz 5 |
->>>>>>> 9ffbce2 (add quiz dates to calendar)
 | F June 9 |  |  |  | project final report |  |
