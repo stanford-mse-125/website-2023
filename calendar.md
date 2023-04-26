@@ -19,7 +19,7 @@ description: Course modules and dates
 | Th April 25 | |  |  | [hw3](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW3.ipynb) |  |
 | F April 28 |  |  |  | project proposal |  |
 | M May 1 | [Linear regression](lectures/linear.pdf) | [regression](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression.ipynb) |  | Quiz 2 |  |
-| T May 2 |  |  |  | hw4 |  |
+| T May 2 |  |  |  | [hw4](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW4.ipynb)|  |
 | W May 3 | [CI for regression](lectures/linear.pdf) | [regression uncertainty](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression-uncertainty.ipynb), [electricity](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/electricity.ipynb) |  |  |  |
 | M May 8 | [Feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |
 | T May 9 |  |  |  | hw5  |  |
