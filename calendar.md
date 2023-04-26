@@ -16,7 +16,7 @@ description: Course modules and dates
 | W April 19 | [Bootstrap](lectures/bootstrap.pdf) | [bootstrap](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/bootstrap.ipynb) | [Discussion 3](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_3.ipynb) | [hw2](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW2.ipynb) |  |
 | M April 24 | [Hypothesis tests](lectures/hypothesis.pdf) | [testing](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/testing.ipynb) |  |  | [Data 8 ch11](https://inferentialthinking.com/chapters/11/1/Assessing_a_Model.html) |
 | W April 26 | [Correlation](lectures/correlation.pdf) | [correlation](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/correlation.ipynb) | [Discussion 4](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_4.ipynb) | | [Data8 ch 15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html) |
-| Th April 25 | |  |  | [hw3](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW3.ipynb) |  |
+| Th April 27 | |  |  | [hw3](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW3.ipynb) |  |
 | F April 28 |  |  |  | project proposal |  |
 | M May 1 | [Linear regression](lectures/linear.pdf) | [regression](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression.ipynb) |  | Quiz 2 |  |
 | T May 2 |  |  |  | [hw4](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW4.ipynb)|  |
