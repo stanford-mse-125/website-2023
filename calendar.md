@@ -22,7 +22,7 @@ description: Course modules and dates
 | T May 2 |  |  |  | [hw4](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW4.ipynb)|  |
 | W May 3 | [CI for regression](lectures/linear.pdf) | [regression uncertainty](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/regression-uncertainty.ipynb), [electricity](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/electricity.ipynb) |[Discussion 5](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_5.ipynb) |  |  |
 | M May 8 | [Feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |
-| T May 9 |  |  |  | hw5  |  |
+| T May 9 |  |  |  | [hw5](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW5.ipynb) |  |
 | W May 10 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  | Quiz 3 |  |
 | F May 12 |  |  |  | project midterm report |  |
 | M May 15 | Logistic regression |  |  |  |  |
