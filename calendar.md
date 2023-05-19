@@ -25,16 +25,16 @@ description: Course modules and dates
 | T May 9 |  |  |  | [hw5](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW5.ipynb) |  |
 | W May 10 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) | [Discussion 6](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_6.ipynb)|  |  |
 | F May 12 |  |  |  | project midterm report |  |
-| M May 15 | Logistic regression |  |  | Quiz 3 |  |
-| T May 16 |  |  |  | [hw6](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW6.ipynb) |  |
-| W May 17 | Error metrics |  |  |  |  |
-| M May 22 | [AutoML](lectures/automl.pdf) |  |  |  |  |
-| T May 23 | |  |  | hw7|  |
-| W May 24 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  | Quiz 4 |  |
-| M May 29 | Holiday |  |  |  |  |
-| T May 30 |  |  |  | hw8 |  |
-| W May 31 | Causal inference I |  |  | |  |
-| M June 5 | Causal inference II |  |  |  |  |
-| T June 6 |  |  |  | hw9 |  |
-| W June 7 | Review |  |  |  | Quiz 5 |
+| M May 15 | Feature engineering |  |  |  |  |
+| T May 16 |  |  |  | hw6 |  |
+| W May 17 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |  |
+| M May 22 | Logistic regression |  |  |  |  |
+| T May 23 | |  |  |  |  |
+| W May 24 | Error metrics |  |  |  |  |
+| M May 29 | Holiday |  |  | hw7 |  |
+| T May 30 |  |  |  |  |  |
+| W May 31 | More regression topics |  |  | |  |
+| M June 5 | Causal inference |  |  | hw8 |  |
+| T June 6 |  |  |  |  |  |
+| W June 7 | Review |  |  |  |  |
 | F June 9 |  |  |  | project final report |  |
