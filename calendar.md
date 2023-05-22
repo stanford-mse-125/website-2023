@@ -26,7 +26,7 @@ description: Course modules and dates
 | W May 10 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) | [Discussion 6](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_6.ipynb)|  |  |
 | F May 12 |  |  |  | project midterm report |  |
 | M May 15 | [More feature generation](lectures/feature_engineering.pdf) |  |  |  |  |
-| T May 16 |  |  |  | hw6 |  |
+| T May 16 |  |  |  | [hw6](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW6.ipynb) |  |
 | W May 17 | [More feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |  |
 | M May 22 | [Logistic regression](lectures/logistic.pdf) |  |  |  |  |
 | T May 23 | |  |  | hw7|  |
