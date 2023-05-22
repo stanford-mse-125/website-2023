@@ -30,7 +30,8 @@ description: Course modules and dates
 | W May 17 | [Model selection](lectures/bias-variance.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |  |
 | M May 22 | [Logistic regression](lectures/logistic.pdf) |  |  |  |  |
 | T May 23 | |  |  | hw7|  |
-| W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  |  | Quiz 4 |  |
+| W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  |  |  |  |
+| F May 26 | ||| Quiz 4 ||
 | M May 29 | Holiday |  |  |  |  |
 | T May 30 |  |  |  | hw8 |  |
 | W May 31 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  | |  |
