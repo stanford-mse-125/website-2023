@@ -29,12 +29,12 @@ description: Course modules and dates
 | T May 16 |  |  |  | [hw6](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW6.ipynb) |  |
 | W May 17 | [More feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |  |
 | M May 22 | [Logistic regression](lectures/logistic.pdf) |  |  |  |  |
-| T May 23 | |  |  | hw7|  |
+| T May 23 | |  |  | |  |
 | W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  |  |  |  |
 | F May 26 | ||| Quiz 4 ||
-| M May 29 | Holiday |  |  |  |  |
-| T May 30 |  |  |  | hw8 |  |
-| W May 31 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  | |  |
+| M May 29 | Holiday |  |  |[hw7](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW7.ipynb) |  |
+| T May 30 |  |  |  |  |  |
+| W May 31 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  |hw8|  |
 | M June 5 | Causal inference |  |  | |  |
 | W June 7 | [AutoML](lectures/automl.pdf) |  |  | Quiz 5 |  |
 | F June 9 |  |  |  | project final report |  |
