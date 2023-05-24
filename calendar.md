@@ -30,7 +30,7 @@ description: Course modules and dates
 | W May 17 | [More feature generation](lectures/feature_engineering.pdf) | [crime](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/crime.ipynb) |  |  |  |  |
 | M May 22 | [Logistic regression](lectures/logistic.pdf) |  |  |  |  |
 | T May 23 | |  |  | |  |
-| W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  |  |  |  |
+| W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  | [Discussion 7](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_7/discussion7.ipynb) |  |  |
 | F May 26 | ||| Quiz 4 ||
 | M May 29 | Holiday |  |  |[hw7](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW7.ipynb) |  |
 | T May 30 |  |  |  |  |  |
