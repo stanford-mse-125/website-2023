@@ -34,7 +34,7 @@ description: Course modules and dates
 | F May 26 | ||| Quiz 4 ||
 | M May 29 | Holiday |  |  |[hw7](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW7.ipynb) |  |
 | T May 30 |  |  |  |  |  |
-| W May 31 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  |hw8|  |
-| M June 5 | Causal inference |  |  | |  |
+| W May 31 | Forecasting | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) |  ||  |
+| M June 5 | Causal inference |  |  |[hw8](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW8.ipynb) |  |
 | W June 7 | [AutoML](lectures/automl.pdf) |  |  | Quiz 5 |  |
 | F June 9 |  |  |  | project final report |  |
