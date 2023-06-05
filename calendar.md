@@ -32,6 +32,7 @@ description: Course modules and dates
 | T May 23 | |  |  | |  |
 | W May 24 | [Error metrics](lectures/classification-metrics.pdf) |  | [Discussion 7](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_7/discussion7.ipynb) |  |  |
 | F May 26 | ||| Quiz 4 ||
+<<<<<<< HEAD
 | M May 29 | Holiday |  |  |[hw7](https://colab.research.google.com/github/stanford-mse-125/homework/blob/main/HW7.ipynb) |  |
 | T May 30 |  |  |  |  |  |
 | W May 31 | [Forecasting](lectures/forecasting.pdf) | [forecasting](https://colab.research.google.com/github/stanford-mse-125/demos/blob/main/forecasting.ipynb) | [Discussion 8](https://colab.research.google.com/github/stanford-mse-125/section/blob/main/Discussions/Discussion_8/discussion8.ipynb) | |  |
